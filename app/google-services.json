@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816060668181",
+    "firebase_url": "https://wordiful-2bd1d.firebaseio.com",
+    "project_id": "wordiful-2bd1d",
+    "storage_bucket": "wordiful-2bd1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816060668181:android:74e7d10a9294c1b6",
+        "android_client_info": {
+          "package_name": "com.shyamapps.wordiful"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816060668181-cojhba2fl9e82b1f9aogcve9oeio6n9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shyamapps.wordiful",
+            "certificate_hash": "9c906a9c61c44e7c821ca9b995f820cd4f521a32"
+          }
+        },
+        {
+          "client_id": "816060668181-a13a523h6u3e6c16bss3j9e13g5ebdkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-4JxOb59Wk92G8G413rwLYx4mofME6BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816060668181-a13a523h6u3e6c16bss3j9e13g5ebdkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
